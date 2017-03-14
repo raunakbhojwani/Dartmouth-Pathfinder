@@ -1,4 +1,4 @@
-# Atari Pong in Python
+# Dartmouth Pathfinder in Python
 ### Implemented by Raunak Bhojwani
 ##### October 2014
 
